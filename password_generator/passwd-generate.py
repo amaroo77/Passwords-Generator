@@ -40,5 +40,5 @@ while 1:
     #print the last message
     if a == nOfPasswd:
         print("\nThat's all. Thank You")
-        print("-Created by NaOH-")
+        print("-Created by amaroo77-")
         break
